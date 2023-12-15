@@ -1,0 +1,40 @@
+{
+  "productos": [
+    {
+      "id": 0,
+      "client": "John P",
+      "date": "23-12-2023",
+      "coordinator": "Luis M"
+    },
+    {
+      "id": 1,
+      "client": "Ale P",
+      "date": "26-12-2023",
+      "coordinator": "Mary F"
+    },
+    {
+      "id": 2,
+      "client": "Lau P",
+      "date": "27-12-2023",
+      "coordinator": "Izzy U"
+    },
+    {
+      "id": 3,
+      "client": "Yuli P",
+      "date": "28-12-2023",
+      "coordinator": "Luis M"
+    },
+    {
+      "id": 4,
+      "client": "Gary P",
+      "date": "29-12-2023",
+      "coordinator": "Izzy U"
+    },
+    {
+      "id": 5,
+      "client": "Sam P",
+      "date": "30-12-2023",
+      "coordinator": "Izzy U"
+    }
+  ]
+}
